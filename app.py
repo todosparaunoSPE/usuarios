@@ -7,9 +7,7 @@ Created on Mon Apr 15 11:48:47 2024
 
 import streamlit as st
 
-
-
-st.image('logo.jpg')
+#st.image('logo.jpg')
 
 st.subheader("")
 st.subheader("")
