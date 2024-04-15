@@ -17,9 +17,9 @@ st.title("BASE DE DATOS NACIONAL DE PENSIONES NO RECLAMADAS")
 
 st.header("")
 
+st.subheader("Tu edad es mayor a 70 años, cotizaste en las AFORE y no reclamaste tus recursos antes de esta edad.")
 st.subheader("")
-st.subheader("")
-st.subheader("")
+st.subheader("Verifica")
 
 
 # Create an empty container
