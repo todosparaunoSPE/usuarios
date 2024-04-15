@@ -9,7 +9,7 @@ import streamlit as st
 
 st.title("BASE DE DATOS NACIONAL DE PENSIONES NO RECLAMADAS")
 
-st.header("Debe tener a la mano su CURP y su NÚMERO DE SEGURIDAD SOCIAL (NSS)")
+st.header("")
 
 st.subheader("")
 st.subheader("")
