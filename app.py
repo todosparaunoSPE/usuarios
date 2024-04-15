@@ -27,7 +27,7 @@ with placeholder.form("Acceder"):
     st.markdown("#### Intoducir:")
     email = st.text_input("CURP")
     password = st.text_input("NSS", type="password")
-    submit = st.form_submit_button("Login")
+    submit = st.form_submit_button("Acceder")
 
 if submit and email == actual_email and password == actual_password:
     # If the form is submitted and the email and password are correct,
