@@ -19,8 +19,8 @@ st.subheader("")
 # Create an empty container
 placeholder = st.empty()
 
-actual_email = "administrador"
-actual_password = "general123"
+actual_email = "TOGP430305MVZTCV03"
+actual_password = "12345678900"
 
 # Insert a form in the container
 with placeholder.form("Acceder"):
