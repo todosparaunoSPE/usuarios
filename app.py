@@ -9,6 +9,10 @@ import streamlit as st
 
 st.title("BASE DE DATOS NACIONAL DE PENSIONES NO RECLAMADAS")
 
+st.image('sunrise.jpg', caption='Sunrise by the mountains')
+
+
+
 st.header("")
 
 st.subheader("")
