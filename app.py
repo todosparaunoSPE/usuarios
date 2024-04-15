@@ -57,7 +57,7 @@ elif email == actual_email[1] and password == actual_password[1]:
     placeholder.empty()
     st.success("CURP y NSS CORRECTOS")
     
-    link = '[Puede continuar:](https://www.google.com.mx/)'
+    link = '[Puede continuar:](https://000000002-oex4oba9ajxxevgn2ctgde.streamlit.app/)'
     st.markdown(link, unsafe_allow_html=True)
     
     
