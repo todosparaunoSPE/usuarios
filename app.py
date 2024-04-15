@@ -7,11 +7,15 @@ Created on Mon Apr 15 11:48:47 2024
 
 import streamlit as st
 
-st.title("BASE DE DATOS NACIONAL DE PENSIONES NO RECLAMADAS")
+
 
 st.image('logo.jpg')
 
+st.subheader("")
+st.subheader("")
+st.subheader("")
 
+st.title("BASE DE DATOS NACIONAL DE PENSIONES NO RECLAMADAS")
 
 st.header("")
 
